@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## STAT 184 GitHub
 
 You can use the [editor on GitHub](https://github.com/Ellen5866/GitHub-Practice-184/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
